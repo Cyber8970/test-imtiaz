@@ -61,7 +61,7 @@ def readline___Public_Xml():
 		login()
 	elif key in ["0", "00" , "6"]:
 		time.sleep(0.5)
-		print (" [•] Search : Imtiaz Aking")
+		print (" [•] Search : "Imtiaz Aking")
 	elif key in ["0", "00"]:
 		exit("\n [✓] Thank you so much♥️\n")
 	else:
